@@ -14,9 +14,3 @@ This is a simple medical chatbot built using the **Mistral-7B-Instruct-v0.3** la
 
 ---
 
-## How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/medical-chatbot
-   cd medical-chatbot
